@@ -1,4 +1,6 @@
-<!-- FRONT -->
+
+
+[sony-logo.png]<!-- FRONT -->
 
 PHARRELL WILLIAMS
 
